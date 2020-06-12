@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hugo De La Cruz
+                    Modiciacion Local
                 </div>
 
                 <div class="links">
